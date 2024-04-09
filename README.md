@@ -1,5 +1,11 @@
-### Hi there 👋
+# Bienvue sur mon Repo ! 
 
+Comme vous pouvez le voir, c'est encore le début de ce repo, même s'il existe depuis longtemps car je suis en apprentissage dans un bootcamp ! 
+Mais c'est pas pour autant que je n'apprends pas par moi-même comme avec TypeScript !
+
+Je remplirais ce Readme quand j'aurai du temps avec les divers projets que je trouve assez intéressant à montrer ! 
+
+**Merci à vous !**
 <!--
 **Murat-eren-11/Murat-eren-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
