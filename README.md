@@ -3,7 +3,7 @@
 Comme vous pouvez le voir, c'est encore le début de ce repo, même s'il existe depuis longtemps car je suis en apprentissage dans un bootcamp ! 
 Mais c'est pas pour autant que je n'apprends pas par moi-même comme avec TypeScript !
 
-Je remplirais ce Readme quand j'aurai du temps avec les divers projets que je trouve assez intéressant à montrer ! 
+Je remplirai ce Readme quand j'aurai du temps avec les divers projets que je trouve assez intéressants à montrer ! 
 
 **Merci à vous !**
 <!--
