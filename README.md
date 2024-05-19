@@ -2,6 +2,9 @@
   <a href="https://www.linkedin.com/in/murat-eren-719127220/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://stackoverflow.com/users/25129733/murat11s" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
 </div>
 
 ###
@@ -14,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a developer from France !<br><br>- 🔭 I’m searching for an Alternance (like work-study contract)<br>- 📚 I'm currently learning to master the MERN stack <br>- ⚡ In my free time I like to take a walk, go to the gym, play some video games, working on some projets</p>
+<p align="left">I'm a developer from France !<br><br>- 🔭 I’m searching for a Alternance (like work-study contract)<br>- 📚 I'm currently learning to master the MERN stack <br>- ⚡ In my free time I like to take a walk, go to the gym, play some video games, working on some projets</p>
 
 ###
 
