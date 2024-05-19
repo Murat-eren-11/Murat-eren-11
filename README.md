@@ -6,11 +6,11 @@
 
 ###
 
-<h1 align="center">Hello Everyone ! 👋🏼</h1>
+<h1 align="center">Bonjour à tous !</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">🔎 Willing to Learn</h3>
+<h2 align="left">🔎 Willing to Learn</h2>
 
 ###
 
@@ -67,5 +67,91 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Murat-eren-11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">👨🏽‍💻 Some of my Project :</h2>
+
+###
+
+<h3 align="left">TripAdvisor Clone :</h3>
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.postimg.cc/DyCmBWb1/trip.png"  />
+</div>
+
+###
+
+<h4 align="left">To Do :</h4>
+
+###
+
+<p align="left">- Better responsive</p>
+
+###
+
+<h3 align="left">Emoji Search :</h3>
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.postimg.cc/zB5JJ5gJ/emoji.png"  />
+</div>
+
+###
+
+<h3 align="left">Vinted Clone :</h3>
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.postimg.cc/wv0dgNzV/vinted.png"  />
+</div>
+
+###
+
+<h4 align="left">To Do :</h4>
+
+###
+
+<p align="left">- Responsive</p>
+
+###
+
+<h3 align="left">Marvel site :</h3>
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.postimg.cc/MHM3NfpX/Marvel.png"  />
+</div>
+
+###
+
+<h4 align="left">To Do :</h4>
+
+###
+
+<p align="left">- Better Responsive<br>- Pagination CSS</p>
+
+###
+
+<h3 align="left">Gamepad :</h3>
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.postimg.cc/9FPshTBq/gamepad.png"  />
+</div>
+
+###
+
+<h4 align="left">To Do :</h4>
+
+###
+
+<p align="left">- Work on the API (they have so much data so it's very laggy)<br>- Work on the CSS<br>- Responsive</p>
 
 ###
