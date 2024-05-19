@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm a developer from France !<br><br>- 🔭 I’m searching for a Alternance (like work-study contract)<br>- 📚 I'm currently learning to master the MERN stack <br>- ⚡ In my free time I like to take a walk, go to the gym, play some video games, working on some projets</p>
+<p align="left">I'm a developer from France !<br><br>- 🔭 I’m searching for an Alternance (like work-study contract)<br>- 📚 I'm currently learning to master the MERN stack <br>- ⚡ In my free time I like to take a walk, go to the gym, play some video games, working on some projets</p>
 
 ###
 
