@@ -82,7 +82,7 @@
 ###
 
 <div align="center">
-  <a href="https://superb-empanada-9798da.netlify.app/">
+  <a href="https://superb-empanada-9798da.netlify.app/" target="_blank">
   <img height="300" src="https://i.postimg.cc/DyCmBWb1/trip.png"  />
   </a>
   </div>
@@ -102,7 +102,10 @@
 ###
 
 <div align="center">
+    <a href="https://muratemojisearch.netlify.app/" target="_blank">
+
   <img height="300" src="https://i.postimg.cc/zB5JJ5gJ/emoji.png"  />
+  </a>
 </div>
 
 ###
@@ -112,8 +115,10 @@
 ###
 
 <div align="center">
+  <a href="https://muratvinted.netlify.app/" target="_blank">
   <img height="300" src="https://i.postimg.cc/wv0dgNzV/vinted.png"  />
-</div>
+  </a>
+  </div>
 
 ###
 
@@ -130,8 +135,10 @@
 ###
 
 <div align="center">
+   <a href="https://spider-murat.netlify.app/" target="_blank">
   <img height="300" src="https://i.postimg.cc/MHM3NfpX/Marvel.png"  />
-</div>
+   </a>
+   </div>
 
 ###
 
@@ -148,7 +155,10 @@
 ###
 
 <div align="center">
+     <a href="https://gamepad-murat.netlify.app/" target="_blank">
+
   <img height="300" src="https://i.postimg.cc/9FPshTBq/gamepad.png"  />
+</a>
 </div>
 
 ###
