@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a developer from France !<br><br>- 🔭 I’m searching for a Talent Acquisition Specialist Job<br>- 📚 I'm currently learning to master the MERN stack <br>- ⚡ In my free time I like to take a walk, go to the gym, play some video games, working on some projets</p>
+<p align="left">I'm a developer from France !<br><br>- 🔭 I’m a Talent Acquisition Specialist<br>- 📚 I'm currently learning to master the MERN stack <br>- ⚡ In my free time I like to take a walk, go to the gym, play some video games, working on some projets</p>
 
 ###
 
